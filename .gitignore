@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/webstudy
+/Abstractions/obj
+/Api/bin/Debug/netcoreapp2.2
+/Api/obj
+/Services/obj
+/webstudy/obj
