@@ -1,0 +1,16 @@
+﻿@using System.Threading.Tasks;
+@{
+    ViewBag.Title = "About";
+int[] result = (int[])ViewData["ListNumber"];
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+<p>Use this area to provide additional information.</p>
+<hr />
+@foreach (var item in result)
+{
+    <p>@item</p>
+}
+
+

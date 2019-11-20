@@ -8,3 +8,15 @@
 /Api/obj
 /Services/obj
 /webstudy/obj
+/MVC/obj
+/MVC/bin
+/MVC.Abstractions/bin/Debug
+/MVC.Abstractions/obj
+/MVC.Common/obj/Debug
+/MVC.Entities/obj/Debug
+/MVC.EntityFramwork/obj/Debug
+/MVC.Infrastructure/bin/Debug
+/MVC.Infrastructure/obj/Debug
+/MVC.Services/bin/Debug
+/MVC.Services/obj
+/packages
